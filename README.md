@@ -6,6 +6,7 @@ A simple and intuitive calculator application built using HTML, CSS, and JavaScr
 **Basic Arithmetic Operations:** Perform addition, subtraction, multiplication, and division.<br>
 **Clear and Backspace Functions:** Easily clear the entire input or remove the last digit.<br>
 **Light and Dark Mode:** Switch between light and dark themes for optimal viewing.<br>
+**Responsive Design:** Works seamlessly on both desktop and mobile devices.<br>
 **Real-time Calculation:** Immediate feedback for each input and operation.<br>
 
 # Technology Used
